@@ -1,6 +1,5 @@
 # COVID-19-Challenge
-The goal of this project is to assess the role of partisanship in the battle with COVID-19
-
+There are articles relating the government response to the COVID-19 to its political affiliation. In order to validate such hypothesize, we dives into the data and explores the relationship between political affiliation and the severity of the pandemic. We found that the political affiliation correlates the severity through affecting the government intervention and the public awareness. The findings encourage the government to take a more collective response in the battle with COVID-19. 
 
 The data sources:
 1. https://en.wikipedia.org/wiki/2018_United_States_elections
